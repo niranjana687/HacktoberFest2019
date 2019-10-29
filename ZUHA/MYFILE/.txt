@@ -1,0 +1,7 @@
+<HTML>
+<HEAD><TITLE> Sample <\TITLE><\HEAD>
+<BODY>
+<CENTER><B> WELCOME <\B></CENTER>
+<\BODY>
+<\HTML>
+ 
