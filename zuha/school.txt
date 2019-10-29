@@ -1,0 +1,12 @@
+<HTML>
+ <HEAD><TITLE>SCHOOL<\TITLE><\HEAD>
+ <BODY>
+  <FONT size="6" face="courier new" color="#B22222">GVHSS Nadakkavu, Calicut.
+  <\FONT><BR>
+  <B>GVHSS for girls,nadakkavu<\B> is a government school in the district of <U>Kozhikode.<\U>
+  <BR><BIG>Kozhikode<\BIG> is a district located in the<EM> south of India.<\EM><BR>
+  GVHSS, Nadakkavu has improved its ranking to second in the<Q>
+    Top 10 Government day schools<\Q> category of 2019-2020.<BR>
+ <\BODY>
+<\HTML>
+  
