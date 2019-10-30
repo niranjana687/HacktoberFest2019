@@ -1,0 +1,7 @@
+#include<iostream>
+using namespace std;
+intmain()
+{
+ cout <<"welcome";
+ return 0;
+}
