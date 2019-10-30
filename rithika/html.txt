@@ -1,0 +1,10 @@
+<HTML>
+<HEAD>
+<TITLE>Self Introduction<\TITLE>
+<\HEAD>
+<BODY>
+Hello, I am Rithika studying in grade 12.<BR>
+This is my third pull request<BR>
+<BR>I Live in <I>Kozhikode<\I>which is a district in the south indian state-<B>Kerala.</B>
+<\BODY>
+<\HTML>
