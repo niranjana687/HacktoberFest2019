@@ -1,0 +1,23 @@
+<HTML>
+<HEAD>
+<TITLE>Natinal anthem<\TITLE>
+<\HEAD>
+<BODY>
+  <FONT size="6" face="courier new" color="B22222">
+    <CENTER> NATIONAL ANTHEM-INDIA</FONT>
+    <BR><BIG>Jana-gana-mana-adhinayaka, jaya he
+    <BR>Bharata-bhagya-vidhata.
+    <BR>Punjab-Sindh-Gujarat-Maratha 
+    <BR>Dravida-Utkala-Banga
+    <BR>Vindhya-Himachala-Yamuna-Ganga 
+    <BR>Uchchala-Jaladhi-taranga.
+    <BR>Tava shubha name jage, 
+    <BR>Tava shubha asisa mage, 
+    <BR>Gahe tava jaya gatha, 
+    <BR>Jana-gana-mangala-dayaka jaya he 
+    <BR>Bharata-bhagya-vidhata.
+    <BR>Jaya he, jaya he, jaya he, Jaya jaya jaya, jaya he! 
+    </CENTER>
+    </BIG>
+  </BODY>
+</HTML>
