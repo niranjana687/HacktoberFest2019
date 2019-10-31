@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Pollution</title>
+</head>
+<body bgcolor="#eeeaa" text="#b222">
+<pre>
+ Don't pollute water
+    don't pollute air;
+ Don't pollute environment 
+  and don't pollute yourself.
+</pre>
+</body>
+</html>
+
