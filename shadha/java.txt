@@ -1,0 +1,9 @@
+<HTML>
+<HEAD><TITLE>javascript</TITLE></HEAD>
+<BODY>
+<SCRIPT language="javascript">
+document.write("welcome to javascript");
+</SCRIPT>
+</BODY>
+</HTML>
+
