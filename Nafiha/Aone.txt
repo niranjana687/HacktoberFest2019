@@ -1,0 +1,8 @@
+<HTML>
+<HEAD><TITLE>Another<\TITLE>
+<\HEAD>
+<BODY Bgcolor="red" text="white">
+Unless India stands up to the world,<BR>
+no one will respect us.<BR>In this World,<BR>fear has no place<BR>
+<\BODY>
+<\HTML>
