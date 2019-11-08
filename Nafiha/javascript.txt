@@ -1,0 +1,29 @@
+<HTML>
+<HEAD>
+<TITLE>
+Sample 2
+</TITLE>
+<SCRIPT Lnguage="javascript">
+function checkdata()
+{
+  var rno;
+  rno=document.frmValid.txtregno.value;
+  if(isNaN(rno))
+  { 
+    alert("Invalid Register Number");
+    return;
+  }
+ }
+</SCRIPT>
+</HEAD>
+<BODY Bgcolor="pink">
+ <FORM Name="frmValid">
+ <CENTER>
+ <BR>
+ Enter your Register number:
+ <INPUT Type="text" name="txtregno">
+ <BR><BR><BR>
+ <INPUT Type="button" value="Get Result" onClick="checkdata()">
+ </CENTER>
+ </FORM>
+ </HTML>
