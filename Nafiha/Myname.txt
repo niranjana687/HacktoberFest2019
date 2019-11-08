@@ -1,0 +1,8 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+cout<<"Enter your name:";
+cout<<"My name is Nafiha";
+return 0;
+}
