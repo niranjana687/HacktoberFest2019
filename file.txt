@@ -1,0 +1,7 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+ cout<<"hello, I am Zuha shah from India";
+ return 0;
+}
